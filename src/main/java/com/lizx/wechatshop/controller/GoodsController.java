@@ -224,7 +224,7 @@ public class GoodsController {
                        Goods goods){
 
 
-        System.out.println("333333333333");
+        System.out.println("333333333");
 
         List<String> list = new ArrayList<String>();
         list.add("dddddddd");
