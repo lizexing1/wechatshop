@@ -223,6 +223,9 @@ public class GoodsController {
     public String index(HttpServletRequest request, HttpServletResponse response, Model model,
                        Goods goods){
 
+
+        System.out.println("333333333333");
+
         List<String> list = new ArrayList<String>();
         list.add("dddddddd");
         list.add("dssss");
